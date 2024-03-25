@@ -2,13 +2,13 @@
 
 In the project directory, you can run:
 
-## `npm start`
+# `npm start`
 
-## `npm test`
+# `npm test`
 
-## `npm test:ci` // To check test case coverage report. ex: index.html file is created inside folder `coverage/src/     containers/index.html`
+# `npm test:ci` // To check test case coverage report. ex: index.html file is created inside folder `coverage/src/containers/index.html`
 
-### `npx cypress open` // To run cypress e2e Test
+# `npx cypress open` // To run cypress e2e Test
 
 Runs the app in the development mode usine `npm start` command.
 
