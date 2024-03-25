@@ -1,0 +1,132 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ArticlesDetails/> snapshot testing of render article details 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1iid6xn-MuiPaper-root-MuiCard-root"
+        data-testid="articleDetails"
+      >
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiCardMedia-root css-zcln7l-MuiCardMedia-root"
+            role="img"
+            style="background-image: url(https://static01.nyt.com/images/2024/03/22/upshot/flashback-promo/flashback-promo-thumbStandard.jpg);"
+            title="Flashback: Your Weekly History Quiz, March 23, 2024"
+          />
+          <a
+            href="https://www.nytimes.com/interactive/2024/03/22/upshot/flashback.html"
+          >
+            <h4
+              class="MuiTypography-root MuiTypography-h4 MuiTypography-alignLeft MuiTypography-gutterBottom css-fx8yf-MuiTypography-root"
+            >
+              Flashback: Your Weekly History Quiz, March 23, 2024
+            </h4>
+          </a>
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-alignLeft css-vwb0c2-MuiTypography-root"
+          >
+            Can you sort 8 historical events?
+          </div>
+          <p
+            class="MuiTypography-root MuiTypography-body1 MuiTypography-alignLeft css-11lpk69-MuiTypography-root"
+          >
+            Author : 
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1iid6xn-MuiPaper-root-MuiCard-root"
+      data-testid="articleDetails"
+    >
+      <div
+        class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+      >
+        <div
+          class="MuiCardMedia-root css-zcln7l-MuiCardMedia-root"
+          role="img"
+          style="background-image: url(https://static01.nyt.com/images/2024/03/22/upshot/flashback-promo/flashback-promo-thumbStandard.jpg);"
+          title="Flashback: Your Weekly History Quiz, March 23, 2024"
+        />
+        <a
+          href="https://www.nytimes.com/interactive/2024/03/22/upshot/flashback.html"
+        >
+          <h4
+            class="MuiTypography-root MuiTypography-h4 MuiTypography-alignLeft MuiTypography-gutterBottom css-fx8yf-MuiTypography-root"
+          >
+            Flashback: Your Weekly History Quiz, March 23, 2024
+          </h4>
+        </a>
+        <div
+          class="MuiTypography-root MuiTypography-h5 MuiTypography-alignLeft css-vwb0c2-MuiTypography-root"
+        >
+          Can you sort 8 historical events?
+        </div>
+        <p
+          class="MuiTypography-root MuiTypography-body1 MuiTypography-alignLeft css-11lpk69-MuiTypography-root"
+        >
+          Author : 
+        </p>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

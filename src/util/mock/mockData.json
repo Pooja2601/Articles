@@ -1,0 +1,58 @@
+{
+  "uri": "nyt://article/0670b049-30f8-5973-bb41-83bd8735e158",
+  "url": "https://www.nytimes.com/2024/03/18/style/kristen-stewart-love-lies-bleeding.html",
+  "id": 100000009361423,
+  "asset_id": 100000009361423,
+  "source": "New York Times",
+  "published_date": "2024-03-18",
+  "updated": "2024-03-20 22:58:47",
+  "section": "Style",
+  "subsection": "",
+  "nytdsection": "style",
+  "adx_keywords": "Fashion and Apparel;Women and Girls;Lingerie and Underwear;Actors and Actresses;your-feed-fashion;Stewart, Kristen",
+  "column": null,
+  "byline": "By Vanessa Friedman",
+  "type": "Article",
+  "title": "Kristen Stewart Uses Naked Dressing to Make a Point",
+  "abstract": "Her press tour for “Love Lies Bleeding” was something to see.",
+  "des_facet": [
+    "Fashion and Apparel",
+    "Women and Girls",
+    "Lingerie and Underwear",
+    "Actors and Actresses",
+    "your-feed-fashion"
+  ],
+  "org_facet": [],
+  "per_facet": ["Stewart, Kristen"],
+  "geo_facet": [],
+  "media": [
+    {
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Kristen Stewart, pantsless at the Los Angeles premiere of “Love Lies Bleeding.”",
+      "copyright": "Emma Mcintyre/Getty Images",
+      "approved_for_syndication": 1,
+      "media-metadata": [
+        {
+          "url": "https://static01.nyt.com/images/2024/03/15/multimedia/KRISTEN-STWEART-jbct-promo/KRISTEN-STWEART-jbct-promo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/03/15/multimedia/KRISTEN-STWEART-jbct-promo/KRISTEN-STWEART-jbct-promo-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/03/15/multimedia/KRISTEN-STWEART-jbct-promo/KRISTEN-STWEART-jbct-promo-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440
+        }
+      ]
+    }
+  ],
+  "eta_id": 0
+}
